@@ -14,7 +14,6 @@
   • [Introduction](https://github.com/Polsulpicien/Polsu-Overlay/#introduction)  
   • [Screenshots](https://github.com/Polsulpicien/Polsu-Overlay/#screenshots)  
   • [Setup](https://github.com/Polsulpicien/Polsu-Overlay/#setup)  
-  • [License](https://github.com/Polsulpicien/Polsu-Overlay/#license) 
 
 ## Introduction
   
@@ -33,6 +32,3 @@ Click Here (link coming soon) and Download the .exe File.
 
 __Step 2:__
 Run the .exe file and provide your Hypixel API (`/api new` on Hypixel) and your client in the settings.
-
-## License
-This project is under the [MIT License](https://github.com/Polsulpicien/Polsu-Overlay/blob/main/LICENSE).
