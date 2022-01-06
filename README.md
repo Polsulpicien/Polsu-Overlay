@@ -52,7 +52,8 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     - [x] Resizable and movable window  
     - [x] Game time + Session time  
     - [x] Player Count
-    - [ ] Custom Logs Path
+    - [ ] Custom Logs Path  
+    - [ ] Tags  
     
 ## Screenshots
 
