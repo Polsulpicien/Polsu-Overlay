@@ -21,7 +21,7 @@
 ## Introduction
   
 This is the first public version of Polsu's Overlay.
-This Overlay is 100% so consider donating to support us! :)  
+This Overlay is 100% FREE so please consider donating to support us! :)  
 **[https://www.patreon.com/polsu]**  
 
 Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**  
