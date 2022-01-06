@@ -56,7 +56,8 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     
 ## Screenshots
 
-![Screenshot](https://media.discordapp.net/attachments/926400954927046656/926420602535952384/unknown.png)
+![Screenshot](https://media.discordapp.net/attachments/804945677833994240/928723061480521818/unknown.png)
+![Screenshot_](https://media.discordapp.net/attachments/926400954927046656/926420602535952384/unknown.png)
 
 ## Setup
 
