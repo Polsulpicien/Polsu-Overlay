@@ -37,7 +37,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     • Shows player heads, stars, name, winstreak, fkdr, finals, wlr, wins, bblr and beds stats  
     • You can manually add a plyer to the overlay by doing `/msg +<PLAYER>` or `/w +<PLAYER>` in game  
     • You can manually clear the stats list  
-    • Displays game lenght at the top of the window  
+    • Displays game length at the top of the window  
     • Displays player list count  
     • Tags: Party, N (Nicked), Dev (Developer, Polsulpicien), Staff (Polsu's Staff Members)  
     • Requested Player stats are temporarily saved to avoid the cooldown error from showing (it can still show if you restart the overlay, clear the cache)  
