@@ -9,12 +9,13 @@
     <a href="https://github.com/Polsulpicien/Polsu-Overlay"><img src="https://img.shields.io/github/downloads/polsulpicien/Polsu-Overlay/total?style=for-the-badge" alt="Downloads"></a>
 </div>
 <p align="center">
-    <h3>Polsu's Ovelray</h3>
+    <h3>Menu:</h3>
 </p>
 
   • [Introduction](https://github.com/Polsulpicien/Polsu-Overlay/#introduction)  
   • [Features](https://github.com/Polsulpicien/Polsu-Overlay/#features)   
   • [Next Features](https://github.com/Polsulpicien/Polsu-Overlay/#next-features)   
+  • [Known Bugs](https://github.com/Polsulpicien/Polsu-Overlay/#known-bugs)   
   • [Screenshots](https://github.com/Polsulpicien/Polsu-Overlay/#screenshots)  
   • [Setup](https://github.com/Polsulpicien/Polsu-Overlay/#setup)  
 
@@ -28,37 +29,40 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
 
 ## Features
 - Stats:  
-    • Shows stats of every players in your lobby in less than 1 seconds (one of the fastest overlay) ;)  
+    • Shows stats of every players in your lobby in less than 0.5 seconds (one of the fastest overlay!)  
     • Automatically shows stats of players who joined your lobby after you  
     • Shows party stats  
     • Shows if players are nicked  
     • You can easily know if a player is good or not since the player gets highlighted  
     • Shows player heads, stars, name, winstreak, fkdr, finals, wlr, wins, bblr and beds stats  
     • You can manually add a plyer to the overlay by doing `/msg +<PLAYER>` or `/w +<PLAYER>` in game  
-
+    • You can manually clear the stats list  
+    • Displays game lenght at the top of the window  
+    • Displays player list count  
+    • Tags: Party, N (Nicked), Dev (Developer, Polsulpicien), Staff (Polsu's Staff Members)  
+    • Requested Player stats are temporarily saved to avoid the cooldown error from showing (it can still show if you restart the overlay, clear the cache)  
+    
 - Window:  
-    • Supports Windows (not tested on macOS yet, feel free to try) :)  
-    • Movable and resizable  
+    • Supports Windows
+    • Movable and resizable window (full screen available too)  
     • The Overlay currently works with 4 clients: Vanilla, Badlion, Lunar and PvPLounge  
-
+    
 - Settings:  
     • All settings are saved on your computer only in `/AppData/Polsu/data.json`, this file is automatically created if it doesn't exists  
     • You can change the opacity of the window  
 
 ## Next Features  
-- Features coming in the next updates:  
-    - [ ] Auto `/who`  
-    - [ ] Shows stats of the player who mentioned you in the lobby  
-    - [x] Resizable and movable window  
-    - [x] Game time + Session time  
-    - [x] Player Count
-    - [ ] Custom Logs Path  
-    - [ ] Tags  
+  - [ ] Auto `/who`  
+  - [ ] Shows stats of the player who mentioned you in the lobby  
+  - [ ] Custom Logs Path  
+  - [ ] View Old Session & Game time (saved to `/AppData/Polsu/session.json`)  
     
+## Known Bugs
+ - Sometimes when you queue a game your own stats can be hidden  
+
 ## Screenshots
 
-![Screenshot](https://media.discordapp.net/attachments/804945677833994240/928723061480521818/unknown.png)
-![Screenshot_](https://media.discordapp.net/attachments/926400954927046656/926420602535952384/unknown.png)
+![Screenshot](https://media.discordapp.net/attachments/804945677833994240/928749561097367552/unknown.png)
 
 ## Setup
 
