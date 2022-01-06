@@ -43,7 +43,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     • Requested Player stats are temporarily saved to avoid the cooldown error from showing (it can still show if you restart the overlay, clear the cache)  
     
 - Window:  
-    • Supports Windows
+    • Supports Windows  
     • Movable and resizable window (full screen available too)  
     • The Overlay currently works with 4 clients: Vanilla, Badlion, Lunar and PvPLounge  
     
