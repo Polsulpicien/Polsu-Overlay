@@ -47,12 +47,12 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
 
 ## Next Features  
 - Features coming in the next updates:  
-    [ ] Auto `/who`  
-    [ ] Shows stats of the player who mentioned you in the lobby  
-    [x] Resizable and movable window  
-    [x] Game time + Session time  
-    [x] Player Count
-    [ ] Custom Logs Path
+    - [ ] Auto `/who`  
+    - [ ] Shows stats of the player who mentioned you in the lobby  
+    - [x] Resizable and movable window  
+    - [x] Game time + Session time  
+    - [x] Player Count
+    - [ ] Custom Logs Path
     
 ## Screenshots
 
