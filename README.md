@@ -41,6 +41,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     • Displays player list count  
     • Tags: Party, N (Nicked), Dev (Developer, Polsulpicien), Staff (Polsu's Staff Members)  
     • Requested Player stats are temporarily saved to avoid the cooldown error from showing (it can still show if you restart the overlay, clear the cache)  
+    • Auto `/who` (not working all the time)  
     
 - Window:  
     • Supports Windows  
@@ -52,10 +53,10 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
     • You can change the opacity of the window  
 
 ## Next Features  
-  - [ ] Auto `/who`  
   - [ ] Shows stats of the player who mentioned you in the lobby  
   - [ ] Custom Logs Path  
   - [ ] View Old Session & Game time (saved to `/AppData/Polsu/session.json`)  
+  - [ ] Improve Auto `/who`  
     
 ## Known Bugs
  - Sometimes when you queue a game your own stats can be hidden  
