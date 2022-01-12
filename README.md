@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://discord.gg/xm9QX3Q"><img src="https://cdn.discordapp.com/attachments/831872376140070943/848225322640998400/polsu.png" alt="polsu logo" height="128" style="border-radius: 50%"></a>
-    <h1>Polsu's Overlay</h1>
+    <h1>Polsu's Overlay v1.0.1</h1>
 </div>
 <div align="center">
         <a href="https://discord.gg/xm9QX3Q"><img src="https://img.shields.io/discord/761623845119328257?color=blue&label=Discord&logo=discord&style=for-the-badge" alt="Discord"></a>
@@ -70,7 +70,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
 ## Setup
 
 __Step 1:__
-Click Here (link coming soon) and Download the .exe File.
+**[v1.0.1]** Click Here **[HERE](https://github.com/Polsulpicien/Polsu-Overlay/releases/tag/v1.0.1)** and Download the .exe File.
 
 __Step 2:__
 Run the .exe file and provide your Hypixel API (`/api new` on Hypixel) and your client in the settings.
