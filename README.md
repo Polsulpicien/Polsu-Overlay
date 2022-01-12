@@ -17,7 +17,7 @@
   • [Next Features](https://github.com/Polsulpicien/Polsu-Overlay/#next-features)   
   • [Known Bugs](https://github.com/Polsulpicien/Polsu-Overlay/#known-bugs)   
   • [Screenshots](https://github.com/Polsulpicien/Polsu-Overlay/#screenshots)  
-  • [Setup](https://github.com/Polsulpicien/Polsu-Overlay/#setup)  
+  • [Download & Setup](https://github.com/Polsulpicien/Polsu-Overlay/#download-&-setup)  
 
 ## Introduction
   
