@@ -67,7 +67,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
 
 ![Screenshot](https://media.discordapp.net/attachments/804945677833994240/928749561097367552/unknown.png)
 
-## Setup
+## Download & Setup
 
 __Step 1:__
 **[v1.0.1]** Click Here **[HERE](https://github.com/Polsulpicien/Polsu-Overlay/releases/tag/v1.0.1)** and Download the .exe File.
