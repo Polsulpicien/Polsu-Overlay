@@ -60,7 +60,8 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
   - [ ] Keybinds  
     
 ## Known Bugs
- - Sometimes when you queue a game your own stats can be hidden  
+ - [ ] Sometimes when you queue a game your own stats can be hidden  
+ - [ ] Reloading can sometimes "break" the overlay and you will need to restart it :/  
 
 ## Screenshots
 
