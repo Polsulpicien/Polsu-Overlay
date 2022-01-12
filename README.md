@@ -58,6 +58,7 @@ Need Help ? Join the **[support server](https://discord.gg/xm9QX3Q)**
   - [ ] View Old Session & Game time (saved to `/AppData/Polsu/session.json`)  
   - [ ] Improve Auto `/who`  
   - [ ] Keybinds  
+  - [ ] Blacklist system (custom tag, report button,...)  
     
 ## Known Bugs
  - [ ] Sometimes when you queue a game your own stats can be hidden  
